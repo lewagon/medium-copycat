@@ -22,7 +22,7 @@ a {
 
 /* Custom design */
 .banner {
-  background-image: url("http://unsplash.it/1000/500");
+  background-image: url("https://source.unsplash.com/random/1000x500");
   background-size: cover;
   color: white;
   padding: 120px 0;
